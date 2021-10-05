@@ -1,6 +1,6 @@
 ### Hi, I'm Aneesh 👋
 - 🔭 I’m currently working in Software Development in Document Cloud
-- 🌱 I’m currently learning about Financial Markets and 
+- 🌱 I’m currently learning about Topics in Reinforcement Learning and System Design
 - 💬 Ask me about Deep Learning, Computer Science, and any weird random topic.
 - 📫 How to reach me: aneeshkshetty [at] gmail [dot] com
 - ⚡ Fun fact: I've done a Swimmathon of 18 kms in 12 hours
