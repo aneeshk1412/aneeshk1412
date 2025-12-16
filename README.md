@@ -1,3 +1,7 @@
+Writing for the age of intelligence
+
+
+<!-- 
 ### Hi, I'm Aneesh 👋
 - 🔭 I’m currently a Masters student at UT Austin in the Computer Science Department
 - 🌱 I’m currently learning about.. a lot of stuff (Robotics, Reinforcement Learning, Formal Verification, Advanced Operating Systems, Cryptography)
@@ -19,15 +23,10 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
 <br />
+-->
 
 
-
-
-
-
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=aneeshk1412&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=aneeshk1412&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"> -->
 
 <!-- Also checkout: [my website](https://rupesh.info/), [CV](https://rupesh.info/webCV/), [code-snippets](https://rupesh.info/gisthub/), [learning-resources](https://rupesh.info/my-learning-resources/) \& [movie-reviews](https://100wordsreview.com/) 
  -->
